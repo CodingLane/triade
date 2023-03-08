@@ -1,0 +1,17 @@
+.light,
+.regular,
+.bold {
+  font-size: 0.95em;
+}
+
+.light {
+  font-family: var(--light);
+}
+
+.regular {
+  font-family: var(--regular);
+}
+
+.bold {
+  font-family: var(--bold);
+}

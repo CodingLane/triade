@@ -1,0 +1,13 @@
+.customBase {
+    color: inherit;
+    background: none;
+    border: none;
+    border-bottom: 1px solid;
+    border-bottom-color: inherit;
+    font-family: var(--fontFamily);
+    font-size: var(--fontSize);
+}
+
+.customBase:focus {
+    outline: none;
+}

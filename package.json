@@ -2,7 +2,7 @@
     "name": "triade",
     "version": "0.1.0",
     "license": "MIT",
-    "description": "A lightweight, easy-to-use and for-everyone react library",
+    "description": "A lightweight and easy-to-use react library for everyone",
     "author": "Coding Lane",
     "files": [
         "src/components/**/*"
